@@ -142,11 +142,11 @@ flutter run
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](https://github.com/pawanavhad/To-do-APP/blob/main/Screenshot_20260226_134654.png)
+![Home Screen](https://github.com/pawanavhad/todo/blob/main/Screenshot_20260226_134654.png)
 
 
 ### ✏️ Edit Task
-![Edit Task](https://github.com/pawanavhad/To-do-APP/blob/main/Screenshot_20260226_134751.png)
+![Edit Task](https://github.com/pawanavhad/todo/blob/main/Screenshot_20260226_134751.png)
 
 
 ------------------------------------------------------------------------
